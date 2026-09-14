@@ -1,0 +1,6 @@
+{
+  "name": "MOBILE LAB - Simulasi Gerak Lurus Beraturan (GLB)",
+  "description": "Simulasi pembelajaran interaktif Gerak Lurus Beraturan (GLB) menggunakan mobil untuk siswa SMP kelas VIII lengkap dengan animasi real-time, tabel data, grafik gradien, dan tantangan prediksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
